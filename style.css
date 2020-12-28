@@ -1,0 +1,49 @@
+.li {
+    font-size: 25px;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    margin-bottom: 600px;
+}
+
+body {
+    text-align: center;
+}
+
+span {
+    display: inline-block;
+    text-align: left;
+    padding: 30px;
+}
+
+#About {
+    position: absolute;
+    top: 1200px;
+}
+
+#maps {
+    margin-left: -100px;
+}
+
+#marquee {
+    background-color: deepskyblue;
+    margin-top: 50px;;
+}
+
+#videos iframe {
+    width: 80%;
+}
+
+
+input {
+    background: grey;
+    height: 100px;
+}
+ul {
+    position: fixed;
+    background-color: black;
+    width: 2500px;
+
+}
